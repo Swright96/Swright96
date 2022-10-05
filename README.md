@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Wright
-- 👀 I’m interested in expanding my knowledge and portfolio in the software development world!
-- 🌱 I’m currently learning and expanding upon MERN, Python, and Java development.
+- 👀 I am a passionate and positive aspiring Software Engineer looking forward to the future. You can find my projects in their repos below.
+- 🌱 I’m learning and improving constantly on MERN, Python, and Java development.
 - 📫 How to reach me by email: swright96@live.com or linkedIn: https://www.linkedin.com/in/samuelwright96/
 
 <!---
